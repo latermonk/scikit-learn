@@ -23,3 +23,9 @@ python -c "import sklearn; sklearn.show_versions()"
 
 ```
 
+##  GET-STARTED
+
+https://scikit-learn.org/stable/getting_started.html     
+
+
+
