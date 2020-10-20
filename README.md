@@ -2,6 +2,11 @@
 scikit-learn
 
 
+
+#  Python Document
+https://docs.python.org/3.7/index.html
+
+
 ##  INSTALL  
 
 https://scikit-learn.org/stable/install.html#installation-instructions   
